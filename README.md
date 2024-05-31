@@ -79,5 +79,6 @@ Contains the assigment submissions for the course CSP 571 - Data Preparation and
 
 ### Software Project Management
 [Link](https://github.com/Shiva-Sankar-07/Software-Project-Management)
+
 Contains the assigment submissions for the course CS 587 - Software Project Management. These asignments include tasks that helps gaining knowledge in Microsoft Projects.
-(/assets/img/project-management.jpg)
+![Software Project Management](/assets/img/project-management.jpg)
