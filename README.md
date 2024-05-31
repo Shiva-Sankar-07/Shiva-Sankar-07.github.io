@@ -24,7 +24,7 @@ The Student Assistant Web Application is a dynamic and user-friendly platform de
 ### Heart Disease Prediction and Analysis
 [Link](https://github.com/Shiva-Sankar-07/Heart-Disease-Prediction-and-Analysis)
 
-Used **Rpart, rpart.plot, ROCR and tidyverse** packages form **R programming language**  for building classification and regression models using decision trees, data manipulation, data modifications and creating powerful visualizations. Divided the dataset such that 70% of data is used for training the models and 30% of data is used for testing the model predictions. Used five algorithms in our project to make predictions. They are **Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Random Forest and Support Vector Machine.**
+Used **Rpart, rpart.plot, ROCR and tidyverse** packages from **R programming language**  for building classification and regression models using decision trees, data manipulation, data modifications and creating powerful visualizations. Divided the dataset such that 70% of data is used for training the models and 30% of data is used for testing the model predictions. Used five algorithms in our project to make predictions. They are **Logistic Regression, K-Nearest Neighbors (KNN), Decision Tree, Random Forest and Support Vector Machine.**
 - In Logistic Regression model, we achieved an accuracy of 82%.
 - In K-Nearest Neighbors (KNN) model, we achieved an accuracy of 85%.
 - In Decision Tree model, we achieved an accuracy of 79%.
